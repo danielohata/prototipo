@@ -2,7 +2,7 @@
 
 PRODUZIR O HIGH CONCEPT DO PROJETO COM OS SEGUINTES ITENS:
 
-• Titulo;
+**• Titulo;**
 
 
 
