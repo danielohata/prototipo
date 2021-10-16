@@ -3,6 +3,12 @@
 PRODUZIR O HIGH CONCEPT DO PROJETO COM OS SEGUINTES ITENS:
 
 • Titulo;
+
+
+
+
+
+
 • Uma descrição em uma linha do funcionamento do jogo;
 • Definição do seu gênero (se é de ação, ou RPG, por exemplo);
 • Suas mecânicas principais (um conjunto de regras);
